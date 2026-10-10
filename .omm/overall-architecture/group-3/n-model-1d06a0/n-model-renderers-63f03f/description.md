@@ -1,0 +1,27 @@
+実在パス: `model/renderers`。58ファイル。
+
+- `model/renderers/cogito.go`
+- `model/renderers/cogito_test.go`
+- `model/renderers/cohere.go`
+- `model/renderers/cohere_test.go`
+- `model/renderers/deepseek3.go`
+- `model/renderers/deepseek3_test.go`
+- `model/renderers/functiongemma.go`
+- `model/renderers/functiongemma_test.go`
+- `model/renderers/gemma4.go`
+- `model/renderers/gemma4_reference_test.go`
+- `model/renderers/glimmer.go`
+- `model/renderers/glimmer_reference_test.go`
+- `model/renderers/glimmer_test.go`
+- `model/renderers/glm46.go`
+- `model/renderers/glm46_test.go`
+- `model/renderers/glm47.go`
+- `model/renderers/glm47_test.go`
+- `model/renderers/glmocr.go`
+- `model/renderers/glmocr_test.go`
+- `model/renderers/image_tags.go`
+- `model/renderers/image_tags_test.go`
+- `model/renderers/json.go`
+- `model/renderers/json_test.go`
+- `model/renderers/laguna.go`
+- `model/renderers/laguna_test.go`

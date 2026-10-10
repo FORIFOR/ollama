@@ -1,0 +1,21 @@
+確認したパス: `llm`。配下の登録ファイルは19件。
+
+- `llm/exit_status.go`（一覧のみ）
+- `llm/exit_status_other.go`（一覧のみ）
+- `llm/exit_status_windows.go`（一覧のみ）
+- `llm/llama_binary.go`（一覧のみ）
+- `llm/llama_binary_test.go`（一覧のみ）
+- `llm/llama_server.go`（一覧のみ）
+- `llm/llama_server_test.go`（一覧のみ）
+- `llm/llm_darwin.go`（一覧のみ）
+- `llm/llm_linux.go`（一覧のみ）
+- `llm/llm_windows.go`（一覧のみ）
+- `llm/media.go`（一覧のみ）
+- `llm/metal_retry.go`（一覧のみ）
+- `llm/rocm_default.go`（一覧のみ）
+- `llm/rocm_windows.go`（一覧のみ）
+- `llm/server.go`（内容確認済み）
+- `llm/server_wait_test.go`（一覧のみ）
+- `llm/status.go`（一覧のみ）
+- `llm/status_test.go`（一覧のみ）
+- `llm/vulkan_windows.go`（一覧のみ）

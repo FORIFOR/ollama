@@ -1,0 +1,22 @@
+確認したパス: `internal`。配下の登録ファイルは20件。
+
+- `internal/cloud/policy.go`（一覧のみ）
+- `internal/cloud/policy_test.go`（一覧のみ）
+- `internal/cloud/test_home_test.go`（一覧のみ）
+- `internal/modelref/modelref.go`（一覧のみ）
+- `internal/modelref/modelref_test.go`（一覧のみ）
+- `internal/orderedmap/orderedmap.go`（一覧のみ）
+- `internal/orderedmap/orderedmap_test.go`（一覧のみ）
+- `internal/proxy/claude_desktop.go`（一覧のみ）
+- `internal/proxy/claude_desktop_access.go`（一覧のみ）
+- `internal/proxy/claude_desktop_access_test.go`（一覧のみ）
+- `internal/proxy/claude_desktop_models.go`（一覧のみ）
+- `internal/proxy/claude_desktop_models_test.go`（一覧のみ）
+- `internal/proxy/claude_desktop_test.go`（一覧のみ）
+- `internal/proxy/codex_desktop.go`（一覧のみ）
+- `internal/proxy/codex_desktop_agents_test.go`（一覧のみ）
+- `internal/proxy/codex_desktop_autoreview.go`（一覧のみ）
+- `internal/proxy/codex_desktop_errors.go`（一覧のみ）
+- `internal/proxy/codex_desktop_errors_test.go`（一覧のみ）
+- `internal/proxy/codex_desktop_normalize.go`（一覧のみ）
+- `internal/proxy/codex_desktop_test.go`（一覧のみ）

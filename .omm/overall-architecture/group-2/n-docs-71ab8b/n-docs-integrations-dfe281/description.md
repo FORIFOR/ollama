@@ -1,0 +1,27 @@
+実在パス: `docs/integrations`。27ファイル。
+
+- `docs/integrations/claude-code.mdx`
+- `docs/integrations/claude-desktop.mdx`
+- `docs/integrations/cline-cli.mdx`
+- `docs/integrations/cline.mdx`
+- `docs/integrations/codex-app.mdx`
+- `docs/integrations/codex.mdx`
+- `docs/integrations/copilot-cli.mdx`
+- `docs/integrations/deepseek-harness.mdx`
+- `docs/integrations/droid.mdx`
+- `docs/integrations/goose.mdx`
+- `docs/integrations/hermes-desktop.mdx`
+- `docs/integrations/hermes.mdx`
+- `docs/integrations/index.mdx`
+- `docs/integrations/jetbrains.mdx`
+- `docs/integrations/marimo.mdx`
+- `docs/integrations/n8n.mdx`
+- `docs/integrations/nemoclaw.mdx`
+- `docs/integrations/oh-my-pi.mdx`
+- `docs/integrations/onyx.mdx`
+- `docs/integrations/openclaw.mdx`
+- `docs/integrations/opencode.mdx`
+- `docs/integrations/pi.mdx`
+- `docs/integrations/pool.mdx`
+- `docs/integrations/roo-code.mdx`
+- `docs/integrations/vscode.mdx`

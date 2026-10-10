@@ -1,0 +1,27 @@
+実在パス: `app/ui`。141ファイル。
+
+- `app/ui/app.go`
+- `app/ui/app/.gitignore`
+- `app/ui/app/.prettierignore`
+- `app/ui/app/.prettierrc`
+- `app/ui/app/codegen/gotypes.gen.ts`
+- `app/ui/app/eslint.config.js`
+- `app/ui/app/index.html`
+- `app/ui/app/package-lock.json`
+- `app/ui/app/package.json`
+- `app/ui/app/public/chatgpt-connected.png`
+- `app/ui/app/public/claude-connected.png`
+- `app/ui/app/public/hello.png`
+- `app/ui/app/public/launch-icons/claude-code.svg`
+- `app/ui/app/public/launch-icons/claude.svg`
+- `app/ui/app/public/launch-icons/cline.svg`
+- `app/ui/app/public/launch-icons/codex-color.svg`
+- `app/ui/app/public/launch-icons/codex-dark.svg`
+- `app/ui/app/public/launch-icons/codex.svg`
+- `app/ui/app/public/launch-icons/copilot-dark.svg`
+- `app/ui/app/public/launch-icons/copilot.svg`
+- `app/ui/app/public/launch-icons/deepseek-harness.svg`
+- `app/ui/app/public/launch-icons/droid.svg`
+- `app/ui/app/public/launch-icons/hermes-agent.svg`
+- `app/ui/app/public/launch-icons/oh-my-pi.svg`
+- `app/ui/app/public/launch-icons/openclaw.svg`

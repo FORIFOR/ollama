@@ -1,0 +1,27 @@
+実在パス: `cmd/launch`。57ファイル。
+
+- `cmd/launch/account.go`
+- `cmd/launch/claude.go`
+- `cmd/launch/claude_desktop.go`
+- `cmd/launch/claude_desktop_test.go`
+- `cmd/launch/claude_test.go`
+- `cmd/launch/cline.go`
+- `cmd/launch/cline_test.go`
+- `cmd/launch/codex.go`
+- `cmd/launch/codex_app.go`
+- `cmd/launch/codex_app_profile.go`
+- `cmd/launch/codex_app_test.go`
+- `cmd/launch/codex_test.go`
+- `cmd/launch/command_test.go`
+- `cmd/launch/context_window.go`
+- `cmd/launch/context_window_test.go`
+- `cmd/launch/copilot.go`
+- `cmd/launch/copilot_test.go`
+- `cmd/launch/deepseek_harness.go`
+- `cmd/launch/deepseek_harness_test.go`
+- `cmd/launch/deprecated_models.go`
+- `cmd/launch/deprecated_models_test.go`
+- `cmd/launch/droid.go`
+- `cmd/launch/droid_test.go`
+- `cmd/launch/hermes.go`
+- `cmd/launch/hermes_test.go`

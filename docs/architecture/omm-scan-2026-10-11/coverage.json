@@ -1,0 +1,42 @@
+{
+  "repo": "FORIFOR/ollama",
+  "branch": "main",
+  "tree_sha": "53fed26112817f7c55f664efb9e3f65f06cab7db",
+  "tree_files": 1352,
+  "read_files": [
+    {
+      "path": "AGENTS.md",
+      "sha": "0656d6aa2c0e508c46bbb7e0d29f9b4d467355a6"
+    },
+    {
+      "path": "README.md",
+      "sha": "e511fbe3fd3e73fc6d7cfb5393d827cf70f0a2f6"
+    },
+    {
+      "path": "go.mod",
+      "sha": "c60eac370249fa750c5fbe983ac22c6414a86f72"
+    },
+    {
+      "path": "app/ui/app/package.json",
+      "sha": "89a205b5a2fed3617657ee71cdcee77cfacdef80"
+    },
+    {
+      "path": "main.go",
+      "sha": "650e03a63b381018722e120cc05651f1b89431b3"
+    },
+    {
+      "path": "llm/server.go",
+      "sha": "a8a55409ae102c2ad3e7326c141650cdd004cb5b"
+    },
+    {
+      "path": "app/server/server.go",
+      "sha": "ef5c0576d0c3c0f6d31ae2299ce798cda114b1b1"
+    },
+    {
+      "path": "api/client.go",
+      "sha": "46e948d0920c1adc14bb20842e17b9060c7640c4"
+    }
+  ],
+  "not_read_count": 1344,
+  "scope": "initial entry-point and direct-import analysis; not exhaustive semantic scan"
+}

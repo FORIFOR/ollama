@@ -1,0 +1,27 @@
+実在パス: `template/testdata`。61ファイル。
+
+- `template/testdata/alfred.gotmpl/system-user-assistant-user`
+- `template/testdata/alfred.gotmpl/user`
+- `template/testdata/alfred.gotmpl/user-assistant-user`
+- `template/testdata/alpaca.gotmpl/system-user-assistant-user`
+- `template/testdata/alpaca.gotmpl/user`
+- `template/testdata/alpaca.gotmpl/user-assistant-user`
+- `template/testdata/chatml.gotmpl/system-user-assistant-user`
+- `template/testdata/chatml.gotmpl/user`
+- `template/testdata/chatml.gotmpl/user-assistant-user`
+- `template/testdata/chatqa.gotmpl/system-user-assistant-user`
+- `template/testdata/chatqa.gotmpl/user`
+- `template/testdata/chatqa.gotmpl/user-assistant-user`
+- `template/testdata/codellama-70b-instruct.gotmpl/system-user-assistant-user`
+- `template/testdata/codellama-70b-instruct.gotmpl/user`
+- `template/testdata/codellama-70b-instruct.gotmpl/user-assistant-user`
+- `template/testdata/command-r.gotmpl/system-user-assistant-user`
+- `template/testdata/command-r.gotmpl/user`
+- `template/testdata/command-r.gotmpl/user-assistant-user`
+- `template/testdata/falcon-instruct.gotmpl/system-user-assistant-user`
+- `template/testdata/falcon-instruct.gotmpl/user`
+- `template/testdata/falcon-instruct.gotmpl/user-assistant-user`
+- `template/testdata/gemma-instruct.gotmpl/system-user-assistant-user`
+- `template/testdata/gemma-instruct.gotmpl/user`
+- `template/testdata/gemma-instruct.gotmpl/user-assistant-user`
+- `template/testdata/gemma3-instruct.gotmpl/system-user-assistant-user`

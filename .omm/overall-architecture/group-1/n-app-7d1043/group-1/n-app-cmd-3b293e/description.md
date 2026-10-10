@@ -1,0 +1,24 @@
+実在パス: `app/cmd`。22ファイル。
+
+- `app/cmd/app/AppDelegate.h`
+- `app/cmd/app/app.go`
+- `app/cmd/app/app_darwin.go`
+- `app/cmd/app/app_darwin.h`
+- `app/cmd/app/app_darwin.m`
+- `app/cmd/app/app_darwin_test.go`
+- `app/cmd/app/app_test.go`
+- `app/cmd/app/app_windows.go`
+- `app/cmd/app/claude_desktop_bindings_darwin.go`
+- `app/cmd/app/claude_desktop_bindings_windows.go`
+- `app/cmd/app/claude_desktop_installer_darwin.go`
+- `app/cmd/app/claude_desktop_installer_darwin_test.go`
+- `app/cmd/app/claude_desktop_status.go`
+- `app/cmd/app/codex_app_bindings_darwin.go`
+- `app/cmd/app/codex_app_bindings_windows.go`
+- `app/cmd/app/codex_app_darwin.go`
+- `app/cmd/app/codex_app_darwin_test.go`
+- `app/cmd/app/codex_desktop_installer_darwin.go`
+- `app/cmd/app/codex_desktop_installer_darwin_test.go`
+- `app/cmd/app/menu.h`
+- `app/cmd/app/webview.go`
+- `app/cmd/squirrel/Info.plist`

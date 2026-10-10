@@ -1,0 +1,27 @@
+確認したパス: `discover`。配下の登録ファイルは25件。
+
+- `discover/amd.go`（一覧のみ）
+- `discover/amd_test.go`（一覧のみ）
+- `discover/cpu_linux.go`（一覧のみ）
+- `discover/cpu_windows.go`（一覧のみ）
+- `discover/cuda_compat.go`（一覧のみ）
+- `discover/cuda_compat_test.go`（一覧のみ）
+- `discover/gpu.go`（一覧のみ）
+- `discover/gpu_darwin.go`（一覧のみ）
+- `discover/gpu_info_darwin.h`（一覧のみ）
+- `discover/gpu_info_darwin.m`（一覧のみ）
+- `discover/llama_server.go`（一覧のみ）
+- `discover/llama_server_test.go`（一覧のみ）
+- `discover/native_probe.go`（一覧のみ）
+- `discover/native_probe_linux.go`（一覧のみ）
+- `discover/native_probe_linux_nocgo.go`（一覧のみ）
+- `discover/native_probe_platform.go`（一覧のみ）
+- `discover/native_probe_stub.go`（一覧のみ）
+- `discover/native_probe_test.go`（一覧のみ）
+- `discover/native_probe_windows.go`（一覧のみ）
+- `discover/runner.go`（一覧のみ）
+- `discover/runner_test.go`（一覧のみ）
+- `discover/types.go`（一覧のみ）
+- `discover/vulkan.go`（一覧のみ）
+- `discover/vulkan_refine_stub.go`（一覧のみ）
+- `discover/vulkan_refine_windows.go`（一覧のみ）

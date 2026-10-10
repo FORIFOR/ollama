@@ -1,0 +1,27 @@
+実在パス: `model/parsers`。42ファイル。
+
+- `model/parsers/cogito.go`
+- `model/parsers/cogito_test.go`
+- `model/parsers/cohere.go`
+- `model/parsers/cohere_test.go`
+- `model/parsers/deepseek3.go`
+- `model/parsers/deepseek3_test.go`
+- `model/parsers/functiongemma.go`
+- `model/parsers/functiongemma_test.go`
+- `model/parsers/gemma4.go`
+- `model/parsers/gemma4_test.go`
+- `model/parsers/glimmer.go`
+- `model/parsers/glimmer_test.go`
+- `model/parsers/glm46.go`
+- `model/parsers/glm46_test.go`
+- `model/parsers/glm47.go`
+- `model/parsers/glm47_test.go`
+- `model/parsers/glmocr.go`
+- `model/parsers/laguna.go`
+- `model/parsers/laguna_test.go`
+- `model/parsers/lfm2.go`
+- `model/parsers/lfm2_test.go`
+- `model/parsers/ministral.go`
+- `model/parsers/ministral_test.go`
+- `model/parsers/nemotron3nano.go`
+- `model/parsers/nemotron3nano_test.go`

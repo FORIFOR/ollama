@@ -1,0 +1,19 @@
+確認したパス: `fs`。配下の登録ファイルは17件。
+
+- `fs/config.go`（一覧のみ）
+- `fs/ggml/ggml.go`（一覧のみ）
+- `fs/ggml/ggml_test.go`（一覧のみ）
+- `fs/ggml/gguf.go`（一覧のみ）
+- `fs/ggml/gguf_test.go`（一覧のみ）
+- `fs/ggml/type.go`（一覧のみ）
+- `fs/ggml/type_test.go`（一覧のみ）
+- `fs/gguf/gguf.go`（一覧のみ）
+- `fs/gguf/gguf_internal_test.go`（一覧のみ）
+- `fs/gguf/gguf_test.go`（一覧のみ）
+- `fs/gguf/keyvalue.go`（一覧のみ）
+- `fs/gguf/keyvalue_test.go`（一覧のみ）
+- `fs/gguf/lazy.go`（一覧のみ）
+- `fs/gguf/reader.go`（一覧のみ）
+- `fs/gguf/tensor.go`（一覧のみ）
+- `fs/util/bufioutil/buffer_seeker.go`（一覧のみ）
+- `fs/util/bufioutil/buffer_seeker_test.go`（一覧のみ）
